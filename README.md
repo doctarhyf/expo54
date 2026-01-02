@@ -20,10 +20,8 @@ And one utility:
 
 ```sh
 # with bun
-bun create expo-app my-app --template https://github.com/kadikraman/expo-starter
-
 bun create expo-app expo54 --template https://github.com/doctarhyf/expo54
 
 # with npm
-npx create-expo-app my-app --template https://github.com/kadikraman/expo-starter
+npx create expo-app expo54 --template https://github.com/doctarhyf/expo54
 ```
